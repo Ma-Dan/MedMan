@@ -1,0 +1,120 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Developer Studio generated include file.
+// Used by MedMan.rc
+//
+#define IDM_ABOUTBOX                    0x0010
+#define IDD_ABOUTBOX                    100
+#define IDS_ABOUTBOX                    101
+#define IDD_MEDMAN_DIALOG               102
+#define IDR_MAINFRAME                   128
+#define IDD_LOGIN_DIALOG                129
+#define IDB_BITMAP1                     130
+#define IDB_BITMAP2                     131
+#define IDD_MEDICINE_VIEW_DIALOG        132
+#define IDD_ADD_MEDICINE_DIALOG         133
+#define IDD_IO_MEDICINE_DIALOG          134
+#define IDD_SEARCH_MEDICINE_DIALOG      136
+#define IDD_MEDICINE_IO_RECORD_DIALOG   137
+#define IDD_EDIT_INFORMATION_DIALOG     138
+#define IDD_DATE_SELECT                 139
+#define IDD_ADVANCED_DIALOG             140
+#define IDD_ACCOUNT_SETTINGS_DIALOG     141
+#define IDD_ADD_ACCOUNT_DIALOG          142
+#define IDD_SECTION_SETTINGS_DIALOG     143
+#define IDD_ADD_SECTION_DIALOG          144
+#define IDD_UNIT_SETTINGS_DIALOG        145
+#define IDD_METHOD_SETTINGS_DIALOG      146
+#define IDD_CHECK_DIALOG                147
+#define IDD_READ_CHECK_DIALOG           148
+#define IDD_DATE_DIALOG                 149
+#define IDC_COMBO_ACCOUNT               1000
+#define IDC_EDIT_PASSWORD               1001
+#define IDC_STORE_VIEW                  1002
+#define IDC_MED_IN_OUT                  1003
+#define IDC_MEDICINE_RECORD             1004
+#define IDC_ADVANCED                    1005
+#define IDC_NEW_MEDICINE                1006
+#define IDC_TIME                        1007
+#define IDC_LIST_ITEM                   1008
+#define IDC_EDIT_TOTAL                  1011
+#define IDC_EDIT_SELECT                 1012
+#define IDC_VIEW_IN_OUT                 1013
+#define IDC_VIEW_ADD                    1014
+#define IDC_VIEW_DELETE                 1015
+#define IDC_VIEW_EDIT                   1016
+#define IDC_BUTTON1                     1017
+#define IDC_EDIT_NAME                   1018
+#define IDC_EDIT_STANDARD               1019
+#define IDC_EDIT_NUMBER                 1020
+#define IDC_EDIT_OUT_PRICE              1021
+#define IDC_EDIT_MANUFACTORY            1022
+#define IDC_EDIT_MINIMUM                1024
+#define IDC_EDIT_SUM                    1025
+#define IDC_COMBO_UNIT                  1026
+#define IDC_EDIT_IN_PRICE               1027
+#define IDC_EDIT_BATCH_NUMER            1028
+#define IDC_EDIT_AMOUNT                 1031
+#define IDC_EDIT_INPRICE                1032
+#define IDC_EDIT_OUTPRICE               1033
+#define IDC_COMBO_SECTION               1034
+#define IDC_COMBO_METHOD                1035
+#define IDC_EDIT_BATCHNUMBER            1036
+#define IDC_SEARCH                      1038
+#define IDC_LIST_MEDICINE               1039
+#define IDC_EDIT_SEARCH_TOTAL           1040
+#define IDC_EDIT_NAMESELECTED           1041
+#define IDC_EDIT_STANDARDSELECTED       1042
+#define IDC_EDIT_UNIT                   1046
+#define IDC_LIST_RECORD                 1047
+#define IDC_EDIT_RECORDTOTAL            1049
+#define IDC_INFORMATION                 1053
+#define IDC_CHECK1                      1054
+#define IDC_CHECK2                      1055
+#define IDC_STATIC_SECTION              1056
+#define IDC_STATIC_NUMBER               1057
+#define IDC_STATIC_METHOD               1058
+#define IDC_STATIC_INFORMATION          1059
+#define IDC_MODIFY_RECORD               1065
+#define IDC_DELETE_RECORD               1066
+#define IDC_INSERT_RECORD               1067
+#define IDC_DATETIMEPICKER1             1068
+#define IDC_IO_MEDICINE                 1069
+#define IDC_ACCOUNT_SETTINGS            1070
+#define IDC_SECTION_SETTINGS            1071
+#define IDC_UNIT_SETTINGS               1072
+#define IDC_METHOD_SEETINGS             1073
+#define IDC_ANNUNAL_CHECK               1074
+#define IDC_LIST_ACCOUNT                1075
+#define IDC_ADD_ACCOUNT                 1076
+#define IDC_DELETE_ACCOUNT              1077
+#define IDC_MODIFY_ACCOUNT              1078
+#define IDC_EDIT_ACCOUNT                1079
+#define IDC_EDIT_PASSWORDCONFIRM        1081
+#define IDC_LIST_SECTION                1082
+#define IDC_ADD_SECTION                 1083
+#define IDC_DELETE_SECTION              1084
+#define IDC_RADIO1                      1085
+#define IDC_RADIO2                      1086
+#define IDC_EDIT_SECTION_NAME           1087
+#define IDC_LIST_UNIT                   1088
+#define IDC_ADD_UNIT                    1090
+#define IDC_DELETE_UNIT                 1091
+#define IDC_LIST_METHOD                 1092
+#define IDC_EDIT_METHOD                 1093
+#define IDC_ADD_METHOD                  1094
+#define IDC_DELETE_METHOD               1095
+#define IDC_EDIT_REALAMOUNT             1101
+#define IDC_DATE                        1104
+#define IDC_CHECK_SHOWINPRICE           1105
+#define IDC_CHECK_SHOWINPRICES          1106
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        150
+#define _APS_NEXT_COMMAND_VALUE         32771
+#define _APS_NEXT_CONTROL_VALUE         1107
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
